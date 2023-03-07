@@ -11,6 +11,6 @@
 
 <br />
 
-## 👨🏻‍💻 Made with:
+## 👨🏻‍💻 built with
 - Python
 
